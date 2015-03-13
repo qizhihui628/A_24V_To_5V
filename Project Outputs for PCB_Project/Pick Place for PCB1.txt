@@ -1,0 +1,72 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J1A        HT5.08-3P-H        744.095mil    397.638mil    944.095mil    397.638mil    944.095mil    397.638mil  T        180.00 HT5.08-3P-H    
+J1B        HT5.08-3P-H       1456.694mil    393.701mil   1656.694mil    393.701mil   1656.694mil    393.701mil  T        180.00 HT5.08-3P-H    
+J1C        HT5.08-3P-H       2165.355mil    393.701mil   2365.355mil    393.701mil   2365.355mil    393.701mil  T        180.00 HT5.08-3P-H    
+J1D        HT5.08-3P-H       2877.166mil    393.701mil   3077.166mil    393.701mil   3077.166mil    393.701mil  T        180.00 HT5.08-3P-H    
+J1E        HT5.08-3P-H       3585.827mil    393.701mil   3785.827mil    393.701mil   3785.827mil    393.701mil  T        180.00 HT5.08-3P-H    
+J1F        HT5.08-3P-H       4294.489mil    393.701mil   4494.489mil    393.701mil   4494.489mil    393.701mil  T        180.00 HT5.08-3P-H    
+J1H        HT5.08-3P-H       5711.812mil    393.701mil   5911.812mil    393.701mil   5911.812mil    393.701mil  T        180.00 HT5.08-3P-H    
+Q1A        INF-SOT23_L        744.095mil    712.599mil    744.095mil    712.599mil    700.788mil    750.001mil  T        360.00 BCV47,SOT23    
+Q1B        INF-SOT23_L       1443.072mil    722.599mil   1443.072mil    722.599mil   1399.764mil    760.001mil  T        360.00 BCV47,SOT23    
+Q1C        INF-SOT23_L       2181.103mil    692.914mil   2181.103mil    692.914mil   2137.796mil    730.316mil  T        360.00 BCV47,SOT23    
+Q1D        INF-SOT23_L       2897.639mil    692.914mil   2897.639mil    692.914mil   2854.331mil    730.316mil  T        360.00 BCV47,SOT23    
+Q1E        INF-SOT23_L         3606.3mil    708.662mil     3606.3mil    708.662mil   3562.993mil    746.064mil  T        360.00 BCV47,SOT23    
+Q1F        INF-SOT23_L       4314.961mil    692.914mil   4314.961mil    692.914mil   4271.654mil    730.316mil  T        360.00 BCV47,SOT23    
+Q1G        INF-SOT23_L       5023.623mil    692.914mil   5023.623mil    692.914mil   4980.316mil    730.315mil  T        360.00 BCV47,SOT23    
+Q1H        INF-SOT23_L       5732.284mil    692.914mil   5732.284mil    692.914mil   5688.977mil    730.316mil  T        360.00 BCV47,SOT23    
+Q2A        INF-SOT23_L        940.946mil    712.599mil    940.946mil    712.599mil    897.638mil    750.001mil  T        360.00 BCV47,SOT23    
+Q2B        INF-SOT23_L       1639.922mil    722.599mil   1639.922mil    722.599mil   1596.615mil    760.001mil  T        360.00 BCV47,SOT23    
+Q2C        INF-SOT23_L       2377.953mil    692.914mil   2377.953mil    692.914mil   2334.646mil    730.316mil  T        360.00 BCV47,SOT23    
+Q2D        INF-SOT23_L       3094.489mil    692.914mil   3094.489mil    692.914mil   3051.182mil    730.316mil  T        360.00 BCV47,SOT23    
+Q2E        INF-SOT23_L        3803.15mil    708.662mil    3803.15mil    708.662mil   3759.843mil    746.064mil  T        360.00 BCV47,SOT23    
+Q2F        INF-SOT23_L       4511.812mil    692.914mil   4511.812mil    692.914mil   4468.505mil    730.316mil  T        360.00 BCV47,SOT23    
+Q2G        INF-SOT23_L       5220.473mil    692.914mil   5220.473mil    692.914mil   5177.166mil    730.315mil  T        360.00 BCV47,SOT23    
+Q2H        INF-SOT23_L       5929.135mil    692.914mil   5929.135mil    692.914mil   5885.827mil    730.316mil  T        360.00 BCV47,SOT23    
+R1A        R0805              744.095mil    555.119mil    744.095mil    555.119mil    706.693mil    555.119mil  T        360.00 RES 10K 5% 0805(2012)
+R1B        R0805             1443.072mil    565.119mil   1443.072mil    565.119mil    1405.67mil    565.119mil  T        360.00 RES 10K 5% 0805(2012)
+R1C        R0805             2181.103mil    535.434mil   2181.103mil    535.434mil   2143.701mil    535.434mil  T        360.00 RES 10K 5% 0805(2012)
+R1D        R0805             2897.639mil    535.434mil   2897.639mil    535.434mil   2860.237mil    535.434mil  T        360.00 RES 10K 5% 0805(2012)
+R1E        R0805               3606.3mil    551.182mil     3606.3mil    551.182mil   3568.898mil    551.182mil  T        360.00 RES 10K 5% 0805(2012)
+R1F        R0805             4314.961mil    535.434mil   4314.961mil    535.434mil    4277.56mil    535.434mil  T        360.00 RES 10K 5% 0805(2012)
+R1G        R0805             5023.623mil    535.433mil   5023.623mil    535.433mil   4986.221mil    535.433mil  T        360.00 RES 10K 5% 0805(2012)
+R1H        R0805             5732.284mil    535.434mil   5732.284mil    535.434mil   5694.882mil    535.434mil  T        360.00 RES 10K 5% 0805(2012)
+R2A        R0805              940.946mil    555.119mil    940.946mil    555.119mil    903.544mil    555.119mil  T        360.00 RES 10K 5% 0805(2012)
+R2B        R0805             1639.922mil    565.119mil   1639.922mil    565.119mil    1602.52mil    565.119mil  T        360.00 RES 10K 5% 0805(2012)
+R2C        R0805             2377.953mil    535.434mil   2377.953mil    535.434mil   2340.552mil    535.434mil  T        360.00 RES 10K 5% 0805(2012)
+R2D        R0805             3094.489mil    535.434mil   3094.489mil    535.434mil   3057.087mil    535.434mil  T        360.00 RES 10K 5% 0805(2012)
+R2E        R0805              3803.15mil    551.182mil    3803.15mil    551.182mil   3765.749mil    551.182mil  T        360.00 RES 10K 5% 0805(2012)
+R2F        R0805             4511.812mil    535.434mil   4511.812mil    535.434mil    4474.41mil    535.434mil  T        360.00 RES 10K 5% 0805(2012)
+R2G        R0805             5220.473mil    535.433mil   5220.473mil    535.433mil   5183.072mil    535.433mil  T        360.00 RES 10K 5% 0805(2012)
+R2H        R0805             5929.135mil    535.434mil   5929.135mil    535.434mil   5891.733mil    535.434mil  T        360.00 RES 10K 5% 0805(2012)
+R3A        R0805              748.032mil    866.142mil    748.032mil    866.142mil     710.63mil    866.142mil  T        360.00 RES 20K 5% 0805(2012)
+R3B        R0805             1456.694mil    866.142mil   1456.694mil    866.142mil   1419.292mil    866.142mil  T        360.00 RES 20K 5% 0805(2012)
+R3C        R0805             2165.355mil    866.142mil   2165.355mil    866.142mil   2127.953mil    866.142mil  T        360.00 RES 20K 5% 0805(2012)
+R3D        R0805             2874.016mil    866.142mil   2874.016mil    866.142mil   2836.615mil    866.142mil  T        360.00 RES 20K 5% 0805(2012)
+R3E        R0805             3582.678mil    866.142mil   3582.678mil    866.142mil   3545.276mil    866.142mil  T        360.00 RES 20K 5% 0805(2012)
+R3F        R0805             4330.709mil    866.142mil   4330.709mil    866.142mil   4293.308mil    866.142mil  T        360.00 RES 20K 5% 0805(2012)
+R3G        R0805             5000.001mil    866.142mil   5000.001mil    866.142mil   4962.599mil    866.142mil  T        360.00 RES 20K 5% 0805(2012)
+R3H        R0805             5748.032mil    866.142mil   5748.032mil    866.142mil   5710.631mil    866.142mil  T        360.00 RES 20K 5% 0805(2012)
+R4A        R0805              590.552mil    708.662mil    590.552mil    708.662mil    590.552mil    746.064mil  T        270.00 RES 10K 5% 0805(2012)
+R4B        R0805             1299.213mil    708.662mil   1299.213mil    708.662mil   1299.213mil    746.064mil  T        270.00 RES 10K 5% 0805(2012)
+R4C        R0805             2047.245mil    669.292mil   2047.245mil    669.292mil   2047.245mil    706.693mil  T        270.00 RES 10K 5% 0805(2012)
+R4D        R0805             2740.158mil    653.544mil   2740.158mil    653.544mil   2740.158mil    690.945mil  T        270.00 RES 10K 5% 0805(2012)
+R4E        R0805              3448.82mil    669.292mil    3448.82mil    669.292mil    3448.82mil    706.694mil  T        270.00 RES 10K 5% 0805(2012)
+R4F        R0805             4157.481mil    653.544mil   4157.481mil    653.544mil   4157.481mil    690.946mil  T        270.00 RES 10K 5% 0805(2012)
+R4G        R0805             4866.142mil    653.544mil   4866.142mil    653.544mil   4866.142mil    690.945mil  T        270.00 RES 10K 5% 0805(2012)
+R4H        R0805             5590.552mil    667.323mil   5590.552mil    667.323mil   5590.552mil    704.725mil  T        270.00 RES 10K 5% 0805(2012)
+C1A        C0805              472.442mil    708.662mil    472.442mil    708.662mil    472.442mil    746.064mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C1B        C0805             1181.103mil    708.662mil   1181.103mil    708.662mil   1181.103mil    746.064mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C1C        C0805             1929.134mil    669.292mil   1929.134mil    669.292mil   1929.134mil    706.693mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C1D        C0805             2622.048mil    653.544mil   2622.048mil    653.544mil   2622.048mil    690.945mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C1E        C0805             3330.709mil    669.292mil   3330.709mil    669.292mil   3330.709mil    706.694mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C1F        C0805             4039.371mil    653.544mil   4039.371mil    653.544mil   4039.371mil    690.946mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C1G        C0805             4748.032mil    653.544mil   4748.032mil    653.544mil   4748.032mil    690.945mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C1H        C0805             5472.442mil    669.292mil   5472.442mil    669.292mil   5472.442mil    706.693mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C7         CA10X16P5         3090.551mil   1062.992mil   2992.126mil   1062.992mil   2992.126mil   1062.992mil  T          0.00 CAPACITOR 330uF 20% 35V 10mmX16mm
+CN3        HT5.08-3P-H       3228.347mil   1377.953mil   3028.347mil   1377.953mil   3028.347mil   1377.953mil  T        360.00 HT5.08-3P-H    
+D4         SMA               3503.937mil   1102.362mil   3503.937mil   1102.362mil   3419.291mil   1102.362mil  T        270.00 SMAJ5.0A       
+CN1        HT5.08-4P-H       2337.795mil   1377.953mil   2037.795mil   1377.953mil   2037.795mil   1377.953mil  T        360.00 HT5.08-4P-H    
+CN2        HT5.08-4P-H       4115.748mil   1377.953mil   3815.748mil   1377.953mil   3815.748mil   1377.953mil  T        360.00 HT5.08-4P-H    
+J1G        HT5.08-3P-H        5003.15mil    393.701mil    5203.15mil    393.701mil    5203.15mil    393.701mil  T        180.00 HT5.08-3P-H    
+
